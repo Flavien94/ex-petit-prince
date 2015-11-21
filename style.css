@@ -36,6 +36,7 @@ color: #6584B2;
 }
 li{
   list-style-image: url(http://img1.wikia.nocookie.net/__cb20110702155327/desencyclopedie/images/8/85/%C3%89toile_or.png);
+position: relative;
 }
 .well{margin-top:auto;
   margin-bottom: 100px;
