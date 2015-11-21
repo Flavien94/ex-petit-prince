@@ -6,10 +6,9 @@ body{
   font-size: 230%;
 background-attachment:fixed;
 background-position: center;
-background-size: 100%;
+background-size: cover;
 background-image: url(http://www.lepetitprince.com/wp-content/themes/petitprince_parc/images/boutique/bg_boutique.jpg);
 color:#F0F0F0;
-background-size: cover;
 }
 
 img{
@@ -21,21 +20,19 @@ img{
 h2{
   padding-top: 55px;
   text-decoration: underline;
-  font-size: 235%
-}
-h1,h4,h2{
+  font-size: 235%;
   text-align: center;
 }
 
-#nav{
+.nav{
 
     width: 500px;
     margin: auto;
 float:none;
 color: #6584B2;
 }
-/*li{  list-style-image: url(https://cdn4.iconfinder.com/data/icons/small-n-flat/24/star-16.png);
-  list-style-position: inside;*/--
+li{  list-style-image: url(https://cdn4.iconfinder.com/data/icons/small-n-flat/24/star-16.png);
+  list-style-position: inside;
 
 }
 .well{margin-top:auto;
@@ -44,9 +41,11 @@ color: #6584B2;
 }
 
 h1{
-  font-size: 240%
+  font-size: 240%;
+  text-align: center;
 }
 h4
 {
-  font-size: 110%
+  font-size: 110%;
+  text-align: center;
 }
