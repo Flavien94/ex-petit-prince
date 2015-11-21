@@ -2,16 +2,26 @@ body{
   padding-top: 50px;
   margin-left: 30px;
   margin-right: 30px;
-  background-image:url(
-  
-    );
+  font-family: 'Sofia',cursive;
+  font-size: 230%;
 background-attachment:fixed;
 background-position: center;
 background-size: 100%;
-color: 100%;
+background-image: url(http://www.lepetitprince.com/wp-content/themes/petitprince_parc/images/boutique/bg_boutique.jpg);
+color:#F0F0F0;
+background-size: cover;
 }
+
+img{
+  display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
 h2{
-  padding-top: 50px;
+  padding-top: 55px;
+  text-decoration: underline;
+  font-size: 235%
 }
 h1,h4,h2{
   text-align: center;
@@ -23,6 +33,18 @@ h1,h4,h2{
     margin: auto;
 float:none;
 }
-nav{
-  width: 100%;
+li{
+  list-style-image: url(http://img1.wikia.nocookie.net/__cb20110702155327/desencyclopedie/images/8/85/%C3%89toile_or.png);
+}
+.well{margin-top:auto;
+  margin-bottom: 100px;
+  display: block;
+}
+
+h1{
+  font-size: 240%
+}
+h4
+{
+  font-size: 110%
 }
